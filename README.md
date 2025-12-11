@@ -1,6 +1,6 @@
 # Product preview card component solution - Frontend Mentor
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -31,8 +31,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### 🚀 Live Demo and Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Ayanfe8/product-preview-card-component](https://github.com/Ayanfe8/product-preview-card-component)
+- Live Site URL: [https://ayanfe8.github.io/product-preview-card-component/](https://ayanfe8.github.io/product-preview-card-component/)
 
 ## My process
 
@@ -78,15 +78,15 @@ product-preview-card-component/
 ├── index.html
 ├── style.css
 ├── design/
-|    ├── active-states.jpg
-|    ├── desktop-preview.jpg
-|    ├── desktop-design.jpg
-|    └── mobile-design.jpg
+| ├── active-states.jpg
+| ├── desktop-preview.jpg
+| ├── desktop-design.jpg
+| └── mobile-design.jpg
 ├── images/
-|    ├── image-product-desktop.jpg
-|    ├── image-product-mobile.jpg
-|    ├── favicon-32x32.png
-|    └── icon-cart.svg
+| ├── image-product-desktop.jpg
+| ├── image-product-mobile.jpg
+| ├── favicon-32x32.png
+| └── icon-cart.svg
 └── README.md
 
 ## 🎨 Style Guide
@@ -98,19 +98,20 @@ product-preview-card-component/
 
 ### Colors
 
-| Name        | Color Value            |
-|-------------|------------------------|
-| Green 500   | hsl(158, 36%, 37%)   |
-| Green 700   | hsl(158, 42%, 18%)   |
-| Black       | hsl(212, 21%, 14%)   |
-| Grey        | hsl(228, 12%, 48%)   |
-| Cream       | hsl(30, 38%, 92%)    |
-| White       | hsl(0, 0%, 100%)     |
+| Name      | Color Value        |
+| --------- | ------------------ |
+| Green 500 | hsl(158, 36%, 37%) |
+| Green 700 | hsl(158, 42%, 18%) |
+| Black     | hsl(212, 21%, 14%) |
+| Grey      | hsl(228, 12%, 48%) |
+| Cream     | hsl(30, 38%, 92%)  |
+| White     | hsl(0, 0%, 100%)   |
 
 ### Typography
 
 - **Body Font Size**: 14px
 - **Fonts**:
+
   - Family: [Montserrat](https://fonts.google.com/specimen/Montserrat)
   - Weights: 500, 700
 
@@ -136,4 +137,3 @@ Built by Ayanfe — aspiring front-end developer.
 This project is open-source and available under the MIT License.
 
 ---
-
